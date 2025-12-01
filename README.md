@@ -1,8 +1,8 @@
-🌤 Weatherzz
+🌤 WEATHERZZ
 
 Aplikasi dashboard cuaca berbasis web dengan tampilan modern, bersih, dan mudah digunakan. Pengguna dapat mencari kota apa pun, melihat kondisi cuaca real-time, serta memantau prakiraan cuaca 5 hari ke depan. Tampilan bisa diganti ke mode terang/gelap, dan semua preferensi akan tersimpan otomatis.
 
-💡 Fitur Utama
+💡 FITUR UTAMA WEATHERZZ
 
 🔍 Pencarian kota dengan autocomplete
 
@@ -20,7 +20,7 @@ Aplikasi dashboard cuaca berbasis web dengan tampilan modern, bersih, dan mudah 
 
 🌧 Animasi cuaca (hujan, salju, petir, langit cerah)
 
-🛠 Teknologi
+🛠 TEKNOLOGI YANG DIGUNAKAN
 
 HTML, TailwindCSS
 
@@ -31,6 +31,7 @@ OpenWeather API
 OpenStreetMap Autocomplete
 
 LocalStorage
+
 
 - Light Mode
 
